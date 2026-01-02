@@ -1,11 +1,12 @@
 From Sign-Ups to Signals: Customer Intelligence Analysis in MySQL
- Project Overview
+
+Project Overview
 
 This project focuses on exploring and analyzing a cleaned U.S. customer dataset using MySQL to uncover actionable business insights. After performing extensive data cleaning to address duplicates, inconsistent entries, and formatting issues, exploratory data analysis (EDA) was conducted to understand customer demographics, acquisition channels, device usage, and signup trends.
 
 The goal of this project is to demonstrate how structured SQL queries can be used to support data-driven decision-making in a business environment.
 
- Problem Statement
+Problem Statement
 Customer data is often underutilized despite its potential to drive growth and improve marketing strategies. This project aims to transform raw customer records into meaningful insights by answering key business questions such as:
 
 Who are the customers?
